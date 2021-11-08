@@ -1,5 +1,5 @@
-# frontend-test-user-input
-Test for front end candidates
+# Front-end Test - User input interface
+This is a challenge for front-end candidates
 
 Create an interface for inserting users into a list. The interface requirements consist of:
 
@@ -9,7 +9,7 @@ This section should include an introduction, a form, an input for the name, an i
 
 Both fields are required fields and the email should be validated prior to submission. When a new user is added, it should be added to the list of current users in the subsequent section.
 
- 
+![Design mock-up](user-insertion.png)
 
 ## Current users section
 
