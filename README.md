@@ -1,4 +1,4 @@
-# Front-end Test - User input interface
+# Front-end developer challenge - User input interface
 This is a challenge for front-end candidates
 
 Create an interface for inserting users into a list. The interface requirements consist of:
